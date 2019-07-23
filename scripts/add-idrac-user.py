@@ -12,7 +12,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 # Script to add a user to iDRAC. Very simple stuff here, should add some
-# logic to get first empty user ID rather than specifying one.
+# logic to get first empty user ID rather than specifying one..
 
 import rfutils
 import json
